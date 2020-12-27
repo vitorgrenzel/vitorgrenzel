@@ -27,7 +27,7 @@
     <table>
       <tr>
         <td>
-          <img width="400px" align="left"
+          <img width="380px" align="left"
             src="https://github-readme-stats.vercel.app/api?username=vitorgrenzel&show_icons=true&bg_color=0d1117&title_color=735ec9&text_color=c9d1d9&icon_color=735ec9&hide_border=true&count_private=true" />
         </td>
         <td>
