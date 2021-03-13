@@ -19,7 +19,7 @@
       <li align="left">🎓 &nbsp; Studying Computer Science.</li>
       <li align="left">💼 &nbsp; I’m currently working on Full Stack Development projects.</li>
       <li align="left">🤔 &nbsp; Exploring new technologies and developing software solutions.</li>
-      <li align="left">🌱 &nbsp; Learning more about DevOps and IA.</li>
+      <li align="left">🌱 &nbsp; Learning more about DevOps and AI.</li>
     </ul>
   </div>
   
