@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Vitor Grenzel 👋 </h1>
 
 <div>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
+  <img src="./github.png"
     min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
   <p align="left">
